@@ -11,7 +11,7 @@ For this assignment, I learned more about how to create databases, joins, views 
 # SQL User-Defined Functions
 ### *Explain when you would use a SQL UDF.*
 
-SQL user-defined functions (UDFs) are blocks of code that perform specific tasks defined by the user.  UDFs accept parameters, perform actions, and return the results as a value. The return value can either be a single scalar value or a result set (https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions?view=sql-server-ver15#:~:text=Like%20functions%20in%20programming%20languages,value%20or%20a%20result%20set., 2020).  
+SQL user-defined functions (UDFs) are blocks of code that perform specific tasks defined by the user.  UDFs accept parameters, perform actions, and return the results as a value. The return value can either be a single scalar value or a result set ((https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions?view=sql-server-ver15#:~:text=Like%20functions%20in%20programming%20languages,value%20or%20a%20result%20set), 2020).  
 
 The advantages of using UDFs are as follows:  
 
