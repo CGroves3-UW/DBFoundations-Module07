@@ -37,11 +37,13 @@ In this section, we will highlight some of the differences between scalar, inlin
 •	A mult-statement function returns a result set with a more powerful result.  
 
 
-Function|Similar Features|Description    
---------|----------------|-------------
-Scalar | Similar to Built-In Functions | Returns a single value
-Inline | Similar to Views with Parameters | Returns a table as the result of a single Select statement
-Multi-Statement | Similar to Stored Procedures | Returns a new table as the result of Insert statements 
+|Function|Similar Features|Description|    
+|--------|----------------|-------------|
+Scalar | Similar to Built-In Functions | Returns a single value  
+Inline | Similar to Views with Parameters | Returns a table as the result of a single Select statement  
+Multi-Statement | Similar to Stored Procedures | Returns a new table as the result of Insert statements    
+
+https://github.com/CGroves3-UW/DBFoundations-Module07/blob/master/docs/Figure%202.PNG
 #### **Figure 2: Similar Features and Description of Scalar, Inline, and Multi-Statement Functions (https://slideplayer.com/slide/10623411/, 2020)**  
 
 # Summary
