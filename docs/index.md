@@ -43,7 +43,7 @@ In this section, we will highlight some of the differences between scalar, inlin
 |Inline | Similar to Views with Parameters | Returns a table as the result of a single Select statement|  
 |Multi-Statement | Similar to Stored Procedures | Returns a new table as the result of Insert statements|   
 
-#### **Figure 2: Similar Features and Description of Scalar, Inline, and Multi-Statement Functions ((https://slideplayer.com/slide/10623411/), 2020)**  
+#### **Table 1: Similar Features and Description of Scalar, Inline, and Multi-Statement Functions ((https://slideplayer.com/slide/10623411/), 2020)**  
 
 # Summary
 
