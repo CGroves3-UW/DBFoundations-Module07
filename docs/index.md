@@ -22,7 +22,7 @@ The advantages of using UDFs are as follows:
 
 In this assignment we had separate tables for products and categories.  The products table contained the ProductID, ProductName, CategoryID, and UnitPrice.  The categories table contained the CategoryID and CategoryName.  Figure 1 provides example code for creating a function that shows a list of category and product names along with the unit price of each product.  
 
-https://github.com/CGroves3-UW/DBFoundations-Module07/blob/master/docs/SQL%20UDF%20Figure%201.jpg?raw=true
+(https://github.com/CGroves3-UW/DBFoundations-Module07/blob/master/docs/SQL%20UDF%20Figure%201.jpg?raw=true)
 
 ![Results of Figure 1](https://github.com/CGroves3-UW/DBFoundations-Module07/blob/master/docs/SQL%20UDF%20Figure%201.jpg?raw=true "Results of Figure 1")  
 #### **Figure 1: SQL UDF with Join on the Categories and Products Views**
@@ -39,12 +39,11 @@ In this section, we will highlight some of the differences between scalar, inlin
 
 |Function|Similar Features|Description|    
 |--------|----------------|-------------|
-Scalar | Similar to Built-In Functions | Returns a single value  
-Inline | Similar to Views with Parameters | Returns a table as the result of a single Select statement  
-Multi-Statement | Similar to Stored Procedures | Returns a new table as the result of Insert statements    
+|Scalar | Similar to Built-In Functions | Returns a single value|  
+|Inline | Similar to Views with Parameters | Returns a table as the result of a single Select statement|  
+|Multi-Statement | Similar to Stored Procedures | Returns a new table as the result of Insert statements|   
 
-https://github.com/CGroves3-UW/DBFoundations-Module07/blob/master/docs/Figure%202.PNG
-#### **Figure 2: Similar Features and Description of Scalar, Inline, and Multi-Statement Functions (https://slideplayer.com/slide/10623411/, 2020)**  
+#### **Figure 2: Similar Features and Description of Scalar, Inline, and Multi-Statement Functions ((https://slideplayer.com/slide/10623411/), 2020)**  
 
 # Summary
 
