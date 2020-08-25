@@ -42,7 +42,7 @@ Function|Similar Features|Description
 Scalar | Similar to Built-In Functions | Returns a single value
 Inline | Similar to Views with Parameters | Returns a table as the result of a single Select statement
 Multi-Statement | Similar to Stored Procedures | Returns a new table as the result of Insert statements 
-#### **Table 1: Similar Features and Description of Scalar, Inline, and Multi-Statement Functions (https://slideplayer.com/slide/10623411/, 2020)**  
+#### **Figure 2: Similar Features and Description of Scalar, Inline, and Multi-Statement Functions (https://slideplayer.com/slide/10623411/, 2020)**  
 
 # Summary
 
